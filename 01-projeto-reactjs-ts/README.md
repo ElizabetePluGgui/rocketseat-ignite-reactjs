@@ -1,7 +1,7 @@
 # Imagens do projeto Finalizado
 <a href="#">
-  <img align="center" src="./src/assets/img1.png" /><br><br>
-  <img align="center" src="./src/assets/img2.png" />
+  <img align="center" width="600" src="./src/assets/img1.png" /><br><br>
+  <img align="center" width="600" src="./src/assets/img2.png" />
 </a>
 
 ## Ferramentas utilizadas no projeto
